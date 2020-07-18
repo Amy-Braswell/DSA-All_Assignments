@@ -520,6 +520,15 @@ function factorial(num) {
 
 factorial(5)
 
+13.) Each of the recursive solutions for drills 1 - 7 of the recursive assignment relies upon
+an if / else conditional statement, thus the time complexity for all of the recursive solutions
+is O(log n). The time it takes to process the information goes up a little bit when the value
+of n goes up from 1 but after that, the time complexity consistently only goes up a little bit.
+
+14.) Because each iterative solution for recursive drills 1 - 7 relies upon a for loop,
+the time complexity of all seven drills is O(n). The length of time the algorithm will take is
+directly proportionate to how many times the loop has to be processed, or the value of n.
+
 
 
   
